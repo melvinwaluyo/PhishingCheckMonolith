@@ -52,7 +52,6 @@ sqlalchemy==2.0.38
     # via
     #   -r requirements.in
     #   alembic
-starlette==0.46.0
     # via fastapi
 typing-extensions==4.12.2
     # via
